@@ -61,14 +61,15 @@ The analysis focuses on addressing the following key questions:
 ## Final Deliverable
 
 The Power BI dashboard provides a holistic view of business performance with the following features:
-<img src='https://github.com/ankithkumar08/Sales-Insights/blob/main/Dashboard.png?raw=true>
 
 - **Dynamic Filters**: Interactive slicers to filter data by time, region, and product.  
 - **Key Metrics**: Visualized revenue, profit, and sales trends.  
 - **Customer Insights**: Segmentation of top customers by revenue contribution.  
 - **Product Analysis**: Identification of high and low-performing products.  
 
-[Explore the Dashboard](https://app.powerbi.com/groups/me/reports/7af175f8-8a23-4cd4-aef7-d4063c6f4c04/f3dbe1fe0bb4561a4636?experience=power-bi).
+![Dashboard Preview](https://raw.githubusercontent.com/ankithkumar08/Sales-Insights/main/Dashboard.png)
+
+[Explore the Dashboard](https://app.powerbi.com/groups/me/reports/7af175f8-8a23-4cd4-aef7-d4063c6f4c04/f3dbe1fe0bb4561a4636?experience=power-bi)
 
 ## Sales Insights: Brick & Mortar Business [Power BI | SQL]
 
