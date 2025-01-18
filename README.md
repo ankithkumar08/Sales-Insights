@@ -69,7 +69,7 @@ The Power BI dashboard provides a holistic view of business performance with the
 
 ![Dashboard Preview](https://raw.githubusercontent.com/ankithkumar08/Sales-Insights/main/Dashboard.png)
 
-[Explore the Dashboard](https://app.powerbi.com/groups/me/reports/7af175f8-8a23-4cd4-aef7-d4063c6f4c04/f3dbe1fe0bb4561a4636?experience=power-bi)
+[Explore the Dashboard](https://github.com/ankithkumar08/Sales-Insights/blob/main/project1.pbit)
 
 ## Sales Insights: Brick & Mortar Business [Power BI | SQL]
 
