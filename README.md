@@ -61,6 +61,7 @@ The analysis focuses on addressing the following key questions:
 ## Final Deliverable
 
 The Power BI dashboard provides a holistic view of business performance with the following features:
+<img src='https://github.com/ankithkumar08/Sales-Insights/blob/main/Dashboard.png?raw=true>
 
 - **Dynamic Filters**: Interactive slicers to filter data by time, region, and product.  
 - **Key Metrics**: Visualized revenue, profit, and sales trends.  
