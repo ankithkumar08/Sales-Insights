@@ -80,3 +80,10 @@ The Power BI dashboard provides a holistic view of business performance with the
 ## How to Use
 
 Feel free to clone this repository and customize the analysis for your business needs. The project demonstrates how to combine SQL and Power BI for data-driven decision-making.
+
+## Connect with Me
+Find out more about my journey and connect with me on [LinkedIn](www.linkedin.com/in/ankithkumar-chillapalli).
+
+---
+
+## Thank you for checking out my repository! Let’s do together! 💻
