@@ -73,7 +73,7 @@ The Power BI dashboard provides a holistic view of business performance with the
 
 ## Sales Insights: Brick & Mortar Business [Power BI | SQL]
 
-- Developed a Power BI dashboard to analyze AtliQ hardware sales trends.  
+- Developed a Power BI dashboard to analyze hardware sales trends.  
 - Enabled users to understand sales data and make data-driven decisions.  
 - Predicted a potential 7% revenue growth in the next quarter based on the insights provided.
 
